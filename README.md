@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @akshayUr04
+- 👋 Hi, I’m @akshayUr
 - 👀 I’m interested in Backend Development
 - 🌱 I’m currently learning GoLang
 - 📫 How to reach me 
